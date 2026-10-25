@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "Casa da Nota · Quiz do Braço do Violão",
+  "short_name": "Casa da Nota",
+  "description": "Quiz: em qual casa do braço do violão está essa nota?",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#17100a",
+  "theme_color": "#17100a",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
